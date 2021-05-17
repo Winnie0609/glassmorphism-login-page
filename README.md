@@ -2,9 +2,9 @@
 A Simple Glassmorphism Login Page.
 
 ## Demo
-* Blog : 
-* Code Pen : [Click ME!](https://codepen.io/huiniong/full/mdOKYyG)
-* ![](https://i.imgur.com/0GnjbUc.gif)
+Blog :   
+Code Pen : [Click ME!](https://codepen.io/huiniong/full/mdOKYyG)  
+![](https://i.imgur.com/0GnjbUc.gif)
 
 ## Feature
 * Button with hover effect
